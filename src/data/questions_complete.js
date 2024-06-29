@@ -51,8 +51,8 @@ const data = [
       },
       {
         question: "Qual o desenho que tem um pássaros e um guaxinim que vivem em um parque?",
-        options: ["O Incrível Mundo de Gumball", "Titio Avô", "Hora De Aventura", "while"],
-        answer: "while",
+        options: ["O Incrível Mundo de Gumball", "Titio Avô", "Hora De Aventura", "Apenas um show"],
+        answer: "Apenas um show",
         tip: "Seus nome são Mordecai e Rigby",
       },
       {
@@ -67,7 +67,7 @@ const data = [
       },
       {
         question: "Qual desenho do Cartoon Network traz um grupo de super-heróis formado por cinco jovens com habilidades especiais ?",
-        options: ["A Mansão Foster para Amigos Imaginários", "Steven Universo", "x = 10;", "Ben 10"],
+        options: ["A Mansão Foster para Amigos Imaginários", "Steven Universo", "Jovens Titãs em Ação!", "Ben 10"],
         answer: "Jovens Titãs em Ação!",
         tip: "Eles lutam contra o crime e protegem Jump City.",
       },
